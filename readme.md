@@ -22,3 +22,6 @@
 ## Article
 ### 1- Publish an article on your NPM article
 ### 2- Publish an article on your web extension
+
+# Contributor
+## Olalekan Samuel

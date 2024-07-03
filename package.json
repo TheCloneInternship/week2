@@ -1,0 +1,16 @@
+{
+  "name": "volume-cylinder",
+  "version": "1.0.0",
+  "description": "it will solve questions on the volume of a cylinder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "volume",
+    "cylinder",
+    "math"
+  ],
+  "author": "sophia",
+  "license": "ISC"
+}

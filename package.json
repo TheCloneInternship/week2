@@ -1,14 +1,14 @@
 {
-  "name": "volume-cylinder",
+  "name": "volume-cone",
   "version": "1.0.0",
-  "description": "it will solve questions on the volume of a cylinder",
+  "description": "it will solve questions on the volume of a cone",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "volume",
-    "cylinder",
+    "cone",
     "math"
   ],
   "author": "sophia",

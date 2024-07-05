@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Text Reader Aloud</title>
+  <style>
+    body { font-family: Arial, sans-serif; }
+    #startButton, #stopButton { margin: 5px; }
+    #settings { margin-top: 10px; }
+  </style>
+</head>
+<body>
+  <button id="startButton">Start Reading</button>
+  <button id="stopButton">Stop Reading</button>
+  <div id="settings">
+    <label for="voices">Voice:</label>
+    <select id="voices"></select>
+    <br>
+    <label for="speed">Speed:</label>
+    <input type="range" id="speed" min="0.5" max="2" value="1" step="0.1">
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>

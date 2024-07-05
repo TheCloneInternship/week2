@@ -1,0 +1,23 @@
+{
+  "name": "Read-aloud-extension",
+  "version": "1.0.0",
+  "description": "A Chrome extension that reads aloud any text on the screen, supporting voice and speed adjustments.",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCloneInternship/week2.git"
+  },
+
+  "keywords": [
+    "chrome-extension",
+    "text-to-speech",
+    "read-aloud",
+    "accessibility"
+  ],
+  "author": "Amos Eden",
+  "license": "ISC"
+}
